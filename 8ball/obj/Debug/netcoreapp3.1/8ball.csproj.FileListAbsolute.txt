@@ -1,0 +1,13 @@
+C:\Users\mcelhinny_benjamin\source\repos\8ball\8ball\obj\Debug\netcoreapp3.1\8ball.csprojAssemblyReference.cache
+C:\Users\mcelhinny_benjamin\source\repos\8ball\8ball\obj\Debug\netcoreapp3.1\8ball.AssemblyInfoInputs.cache
+C:\Users\mcelhinny_benjamin\source\repos\8ball\8ball\obj\Debug\netcoreapp3.1\8ball.AssemblyInfo.cs
+C:\Users\mcelhinny_benjamin\source\repos\8ball\8ball\obj\Debug\netcoreapp3.1\8ball.csproj.CoreCompileInputs.cache
+C:\Users\mcelhinny_benjamin\source\repos\8ball\8ball\bin\Debug\netcoreapp3.1\8ball.exe
+C:\Users\mcelhinny_benjamin\source\repos\8ball\8ball\bin\Debug\netcoreapp3.1\8ball.deps.json
+C:\Users\mcelhinny_benjamin\source\repos\8ball\8ball\bin\Debug\netcoreapp3.1\8ball.runtimeconfig.json
+C:\Users\mcelhinny_benjamin\source\repos\8ball\8ball\bin\Debug\netcoreapp3.1\8ball.runtimeconfig.dev.json
+C:\Users\mcelhinny_benjamin\source\repos\8ball\8ball\bin\Debug\netcoreapp3.1\8ball.dll
+C:\Users\mcelhinny_benjamin\source\repos\8ball\8ball\bin\Debug\netcoreapp3.1\8ball.pdb
+C:\Users\mcelhinny_benjamin\source\repos\8ball\8ball\obj\Debug\netcoreapp3.1\8ball.dll
+C:\Users\mcelhinny_benjamin\source\repos\8ball\8ball\obj\Debug\netcoreapp3.1\8ball.pdb
+C:\Users\mcelhinny_benjamin\source\repos\8ball\8ball\obj\Debug\netcoreapp3.1\8ball.genruntimeconfig.cache
